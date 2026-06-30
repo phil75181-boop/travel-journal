@@ -1,8 +1,8 @@
-+++
-date = '2026-06-30T21:00:42+02:00'
-draft = false
-title = 'Lorem Ipsum'
-+++
+---
+title: "First Test Post"
+date: 2026-06-30T21:00:42+02:00
+draft: false
+---
 
 Placeholder until it actually starts
 

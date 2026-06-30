@@ -1,0 +1,25 @@
+/* Add a clear frame around each post item on the homepage */
+.post-entry {
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Make it elevate slightly when hovering over it to show it's clickable */
+.post-entry:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    border-color: var(--primary);
+}
+
+/* Add an explicit link hint at the bottom of the card */
+.post-entry::after {
+    content: "Read Entry →";
+    display: block;
+    margin-top: 12px;
+    font-size: 0.9rem;
+    font-weight: bold;
+    opacity: 0.8;
+}

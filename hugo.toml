@@ -1,3 +1,14 @@
 baseURL = 'https://travel-journal-9lj.pages.dev/'
 locale = 'en-us'
 title = "Phil's Travel Journal"
+theme = "PaperMod"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.image]
+        useEmbedded = "fallback"
+[params]
+  assets = { css = ["css/extended.css"] }
+[params.homeInfoParams]
+  Title = "Welcome to my Travel Journal!"
+  Content = "Click on any card below to read the full updates, view high-res photography maps, and see my logs from the trip."
