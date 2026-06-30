@@ -1,11 +1,8 @@
 +++
 date = '2026-06-30T21:00:42+02:00'
 draft = false
-title = 'Placeholder'
+title = 'Lorem Ipsum'
 +++
-
-
-# Phil's Travel Journal
 
 Placeholder until it actually starts
 
