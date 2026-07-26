@@ -10,5 +10,5 @@ theme = "PaperMod"
 [params]
   assets = { css = ["css/extended.css"] }
 [params.homeInfoParams]
-  Title = "Welcome to my Travel Journal!"
-  Content = "Click on any card below to read the full updates, view high-res photography maps, and see my logs from the trip."
+  Title = "Willkommen zu meinem Reisetagebuch!"
+  Content = "Klicke auf die unteren Posts um eine Station meiner Reise genauer zu erkunden."

@@ -1,0 +1,13 @@
+{{- $img := .Page.Resources.GetMatch .Destination -}}
+{{- if $img -}}
+  {{- /* Automatische Konvertierung zu WebP und Skalierung auf max 1600px Breite bei beibehaltenem Seitenverhältnis */ -}}
+  {{- $optimized := $img.Resize "1600x webp q82" -}}
+  <figure>
+    <img src="{{ $optimized.RelPermalink }}"
+         alt="{{ .Text }}"
+         loading="lazy">
+    {{ with .Title }}<figcaption>{{ . }}</figcaption>{{ end }}
+  </figure>
+{{- else -}}
+  <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
+{{- end -}}
