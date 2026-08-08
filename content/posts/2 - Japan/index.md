@@ -7,6 +7,7 @@ cover:
     caption: "Tokyo bei Sonnenaufgang - 04.08.2026"
     relative: true
 ---
+Japan bot eine perfekte Mischung aus urbaner Dynamik und traditioneller Kultur. Die Reise führte über vier Tage durch das vielseitige Tokyo, gefolgt von fünf Tagen im geschichtsträchtigen Kyoto und einem kurzen Abstecher nach Kobe. Neben der Architektur und den vielen visuellen Eindrücken war vor allem die kulinarische Vielfalt auf diesem Streckenabschnitt ein absolutes Highlight.
 
 ![](DSC01710.jpg "27.07.2026 - Tokyo")
 ![](DSC01715.jpg "27.07.2026 - Tokyo")
