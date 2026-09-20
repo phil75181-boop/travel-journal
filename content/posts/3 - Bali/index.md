@@ -4,7 +4,7 @@ date: 2026-08-14T00:00:42+02:00
 draft: false
 cover: 
     image: "Cover_Bali.jpg"
-    caption: "Sonnenaufgang in Amed - 24.07.2026"
+    caption: "Sonnenaufgang in Amed - 12.08.2026"
     relative: true
 ---
 Bali bot eine faszinierende Mischung aus spiritueller Ruhe und tropischer Vielfalt. Die Reise führte über eineinhalb Wochen durch die unterschiedlichsten Regionen der Insel, beginnend im kulturellen Zentrum Ubud mit Einblicken in das Inselinnere. Weitere Stationen waren der beschauliche Hafenort Padang Bai sowie der ruhige Norden rund um Amed. Den Abschluss bildete ein erneuter Aufenthalt in Ubud, von wo aus mein Vater die Heimreise antrat, gefolgt von meinem alleinigen Abstecher nach Nusa Penida. Neben den landschaftlichen Eindrücken war vor allem die Vielfalt der Orte ein absolutes Highlight.
