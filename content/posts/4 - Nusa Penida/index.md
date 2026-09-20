@@ -7,7 +7,7 @@ cover:
     caption: "Reef Manta Rays in Manta Point - 31.08.2026"
     relative: true
 ---
-Bali...
+Nusa Penida, eine kleine Insel im Südosten Balis, bot die Kulisse für einen vierwöchigen Aufenthalt. Im Rahmen eines Research Diver Internships verbrachte ich den Grossteil dieser Zeit unter Wasser. Neben dem grossen Spass war vor allem die intensive Auseinandersetzung mit dem Meer und seinen Bewohnern ein absolutes Highlight, das mir zahlreiche neue Erkenntnisse über die Unterwasserwelt ermöglichte.
 
 ![](29-IMG_20260818_182148811.jpg "18.08.2026 - Nusa Penida")
 ![](28-DSC03062 "22.08.2026 - Nusa Penida")
